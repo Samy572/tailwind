@@ -1,0 +1,9 @@
+/* Tailwind fonctionalité */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.article {
+	@apply bg-red-500; 
+}

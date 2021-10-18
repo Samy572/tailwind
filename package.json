@@ -1,0 +1,15 @@
+{
+	"name": "Tailwi",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build-tailwind": "tailwindcss build -i src/styles.css -o public/styles.css --watch"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"tailwindcss": "^2.2.16"
+	}
+}
